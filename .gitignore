@@ -1,0 +1,14 @@
+kwchatback/DB통합본.json
+backend/.env
+triplet_finetuned_model/
+*.bin
+*.safetensors
+*.pt
+
+
+backend/triplet_finetuned_model/
+*.bin
+*.pt
+*.safetensors
+backend/triplet_finetuned_model/
+triplet_finetuned_model/
